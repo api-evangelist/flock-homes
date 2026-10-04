@@ -48,7 +48,7 @@ created: '2026-07-17'
 modified: '2026-07-19'
 tags:
 - Company
-- Real-Estate
+- Real Estate
 - Investment
 - Property Management
 - 721 Exchange
@@ -64,6 +64,7 @@ tags_raw:
 - Fund
 - Proptech
 - Fintech
+- Real-Estate
 apis: []
 common:
 - type: DomainSecurity
