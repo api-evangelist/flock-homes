@@ -64,6 +64,91 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Flock Homes is a company surfaced as a portfolio company of a16z and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Flock Homes is a real estate investment platform, founded in 2020 and backed by a16z, that lets individual rental-property owners retire from active landlording by contributing their single-family and multifamily homes into a professionally managed, diversified residential real estate fund. Flock uses a 721 Exchange (an UPREIT contribution) so owners can trade appreciated rental property for fund shares on a tax-deferred basis, deferring capital gains and depreciation-recapture taxes while eliminating repair, vacancy, and eviction responsibilities. Fund investors receive quarterly cash-flow distributions and long-term appreciation across a nationwide portfolio, with Flock handling all property management, maintenance, and tenant operations. No public developer API, SDK, or documentation surface has been found; this profile is maintained as a company record in the API Evangelist network.
 
-Backed by: a16z
+**Areas:** Company · Real Estate · Investment · Property Management · 721 Exchange · Fund · PropTech · Fintech
+
+## Flock Homes on APIs.io
+
+Everything profiled for Flock Homes is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/flock-homes/](https://apis.io/providers/flock-homes/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [flock-homes](https://apis.io/servers/flock-homes/flock-homes/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Flock Homes Domain Security](https://apis.io/security/flock-homes/flock-homes-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.flockhomes.com)
+- [Sign up](https://www.flockhomes.com/onboarding)
+- [Blog](https://flockhomes.com/stories)
+- [Terms of service](https://www.flockhomes.com/terms-of-use)
+- [Privacy policy](https://www.flockhomes.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 12.3** — emerging · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 51.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 34.2 |
+
+**Agent readiness 12.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | verified |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/flock-homes/](https://apis.io/providers/flock-homes/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Flock Homes: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/flock-homes/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
